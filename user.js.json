@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Nikola",
+        "last_name": "McKennan",
+        "email": "nmckennan0@jigsy.com",
+        "gender": "Male",
+        "ip_address": "213.146.39.249"
+    },
+    {
+        "id": 2,
+        "first_name": "Gerta",
+        "last_name": "Smidmor",
+        "email": "gsmidmor1@lulu.com",
+        "gender": "Female",
+        "ip_address": "148.23.122.226"
+    },
+    {
+        "id": 3,
+        "first_name": "Averyl",
+        "last_name": "Maseres",
+        "email": "amaseres2@naver.com",
+        "gender": "Female",
+        "ip_address": "24.239.179.169"
+    },
+    {
+        "id": 4,
+        "first_name": "Sancho",
+        "last_name": "Broschek",
+        "email": "sbroschek3@ihg.com",
+        "gender": "Male",
+        "ip_address": "18.184.93.130"
+    },
+    {
+        "id": 5,
+        "first_name": "Kellen",
+        "last_name": "Baudasso",
+        "email": "kbaudasso4@unicef.org",
+        "gender": "Male",
+        "ip_address": "2.248.37.222"
+    },
+    {
+        "id": 6,
+        "first_name": "Madonna",
+        "last_name": "Cotilard",
+        "email": "mcotilard5@google.nl",
+        "gender": "Female",
+        "ip_address": "235.8.34.19"
+    },
+    {
+        "id": 7,
+        "first_name": "Susana",
+        "last_name": "Burgh",
+        "email": "sburgh6@dell.com",
+        "gender": "Female",
+        "ip_address": "30.143.62.52"
+    },
+    {
+        "id": 8,
+        "first_name": "Tonye",
+        "last_name": "Whipple",
+        "email": "twhipple7@unicef.org",
+        "gender": "Female",
+        "ip_address": "67.244.117.134"
+    },
+    {
+        "id": 9,
+        "first_name": "Artie",
+        "last_name": "Bhar",
+        "email": "abhar8@imgur.com",
+        "gender": "Male",
+        "ip_address": "152.5.224.118"
+    },
+    {
+        "id": 10,
+        "first_name": "Poul",
+        "last_name": "Addison",
+        "email": "paddison9@spiegel.de",
+        "gender": "Male",
+        "ip_address": "186.213.74.88"
+    }
+]
